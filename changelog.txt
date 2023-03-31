@@ -1,0 +1,39 @@
+
+
+
+Changelog for Version 1.0.0:
+
+```New Features:```
+- Added Discord's Built-in Slash Command for easier access to commands.
+- Added Ping Command to check the bot's latency.
+- Added Help Command to display all available commands and their usage.
+- Added Time Command to display the current time.
+- Added Hello Command to greet users.
+- Added Roll Dice Command for generating random numbers.
+- Added ServerInfo Command to display information about the server.
+- Added ChatGPT Command to interact with ChatGPT, the AI language model.
+- Added Random Quote Command to display a random quote.
+- Added Ticket Command for users to create support tickets.
+- Added Rules Command for easy access to server rules.
+- Added Logger Channels to track user activities.
+- Added Ban, Undeaf, and UnBan Commands for moderation purposes.
+- Added Commands for managing roles and permissions.
+- Added GameDeals Command to display deals on Steam.
+- Added Summarize Command to summarize text using the text-davinci-003 engine.
+- Added Generate Command to generate answers in code form for coding problems.
+- Upgraded to ChatGPT's new engine for better chatbot functionality and added a translator.
+- Added Stat Command for admin to see stats of users on the server. 
+- Added a logging command for admins to create a channel that logs information in the server.
+- Added Translation command, can do most of all the languages!
+- Added Some more moderation commands
+```Improvements:```
+- Moved from discordpy to nextcordpy for better maintenance.
+- Server is partially online.
+- Fixed functionality
+
+```Work in Progress:```
+- Developing a Chat turbo engine for voice-to-text and text translation.
+- Migrating all engine commands to the new engine.
+- AI moderation 
+- Website for Wadder, Wadder Chat, Wadder Pro
+
