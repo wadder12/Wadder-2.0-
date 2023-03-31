@@ -113,7 +113,7 @@ banned_words = ['spam', 'scam', 'bot']
 
 # maybe delete this one? 
 
-openai.api_key = "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"
+openai.api_key = ""
 
 messages_in_channel = []
 messages_in_dm = []
@@ -3131,4 +3131,4 @@ async def on_message(message):
 
 
 # for the bot to run, using the token, change to .env file later when finished. 
-bot.run('MTA3MjQxODg5MTY4MDIwMjgyNA.GCgooa.cNe4I4fMdC_Hh4TIHENfX3dJN1wzH16jzprcMs')
+bot.run('')
